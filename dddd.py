@@ -7,5 +7,6 @@ vista_mar = True
 print('Cliente: ', cliente)
 print('estancias dias: ' + str(estancia_dias))
 print(vista_mar)
+print('prueba para modificar el archivo')
 
 
