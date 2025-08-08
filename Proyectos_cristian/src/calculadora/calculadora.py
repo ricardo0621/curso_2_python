@@ -1,3 +1,5 @@
+cris = 'eeeee'
+
 def calculadora():
     """
     Calculadora básica que recibe dos números y permite seleccionar
@@ -10,7 +12,7 @@ def calculadora():
     print("3. Multiplicar")
     print("4. Dividir")
     print("5. Salir")
-    
+
     while True:
         try:
             # Solicitar los dos números
@@ -64,5 +66,6 @@ def calculadora():
             print("\n¡Gracias por usar la calculadora de Ctorres!")
             break
 
-if __name__ == "__main__":
-    calculadora()
+#if __name__ == "__main__":
+ #
+calculadora()

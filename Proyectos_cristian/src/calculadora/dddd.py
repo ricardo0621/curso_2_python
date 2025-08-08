@@ -1,3 +1,5 @@
+from calculadora import cris
+
 print('*** Sistema de Reserva de Hoteles ***')
 cliente = 'Laura _martinez'
 estancia_dias = 5
@@ -8,5 +10,7 @@ print('Cliente: ', cliente)
 print('estancias dias: ' + str(estancia_dias))
 print(vista_mar)
 print('prueba para modificar el archivo')
+print(cris)
+
 
 
